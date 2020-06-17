@@ -1,0 +1,25 @@
+{
+  "name": "dao",
+  "version": "1.0.0",
+  "description": "A Decentralized Autonomous Organization Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hendobox/DAO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hendobox/DAO/issues"
+  },
+  "homepage": "https://github.com/Hendobox/DAO#readme",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6"
+  }
+}
